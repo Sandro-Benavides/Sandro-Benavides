@@ -17,7 +17,7 @@ Me interesa seguir creciendo profesionalmente en el área TI, especialmente en d
 - 🗄️ Trabajo con bases de datos y PostgreSQL
 - 🌐 Desarrollo frontend con HTML, CSS y JavaScript
 - ☁️ Interés en tecnologías Cloud y AWS
-- 🔧 Experiencia en soporte TI y resolución de problemas tecnológicos
+- 🔧 Conocimientos en soporte TI y resolución de problemas tecnológicos
 - 📚 En constante aprendizaje y desarrollo de nuevas habilidades
 - 🎯 Buscando oportunidades para seguir creciendo profesionalmente en el área TI
 
